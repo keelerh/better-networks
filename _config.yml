@@ -1,18 +1,9 @@
-# site settings
 title: DAF-MIT
 subtitle: AI Accelerator
 email: contact@betternetworks.mit.edu
 description: In today's digital age, the implications of adversarial actions on networks are intensifying. Leveraging recent advancements in high-performance, privacy-preserving network sensing and analysis, we can trace connections from granular network traffic to financial transactions and social interactions, crafting a holistic understanding of cyber activities.
-#\n **Introducing the Data Challenge:** \nTo inspire innovative solutions that can identify and thwart adversarial actions in the cyber realm, we're releasing three unique datasets: Ethereum transactions, tweets from Russian and Chinese diplomats, and darknet network flows. Our challenge to you is this: Can you unearth insights from a multi-domain analysis of these datasets? Dive deep and showcase your prowess in synthesizing data across layers to provide a comprehensive view of network activities, potential threats, and their likely consequences.\n Join us in this quest and help shape the future of cybersecurity.
-baseurl: "/better-networks"
-url: # the base hostname & protocol for your site
-#author:
-#street_address: 1234 Somewhere Road
-#city: Nashville
-#state: TN
-#zip_code: 55555
-#country: United States of America
-#phone: (716) 555-5555
+#baseurl: "/better-networks"
+url: "https://keelerh.github.io/better-networks"
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
