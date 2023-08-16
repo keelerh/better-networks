@@ -1,11 +1,13 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, my name is Forty'
+landing-title: 'Better Networks Challenge'
 description: null
 image: null
 author: null
 show_tile: false
 ---
 
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.
+To inspire innovative solutions that can identify and thwart adversarial actions in the cyber realm, we're releasing three unique datasets: Ethereum transactions, tweets from Russian and Chinese diplomats, and darknet network flows. Our challenge to you is this: Can you unearth insights from a multi-domain analysis of these datasets? Dive deep and showcase your prowess in synthesizing data across layers to provide a comprehensive view of network activities, potential threats, and their likely consequences.
+
+Join us in this quest and help shape the future of cybersecurity.
