@@ -8,7 +8,7 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a class="image">
-			<img src="{% link assets/images/joshua-hoehne-Lh_sFxD8AkI-unsplash.jpg %}" alt="" data-position="center center" />
+			<img src="{{ site.baseurl }}/assets/images/joshua-hoehne-Lh_sFxD8AkI-unsplash.jpg" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
