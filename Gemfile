@@ -1,4 +1,4 @@
-g addsource 'https://rubygems.org'
+source 'https://rubygems.org'
 
 # gem 'jekyll', '~> 4.2'
 
