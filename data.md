@@ -18,7 +18,7 @@ nav-menu: true
 	</div>
 	<div class="4u 12u$(medium)">
 		<h3>Ethereum Transactions</h3>
-		<p>A detailed record of Ethereum transactions spanning the first quarter of 2022. Encompassing millions of on-chain activities, this dataset provides a snapshot of the Ethereum network's dynamics, showcasing trends, behaviors, and patterns pivotal to the decentralized finance ecosystem and smart contract interactions.</p>
+        <p>A detailed record of all cryptocurrency trading on the Ethereum blockchain, spanning the first quarter of 2022. The data encompasses the complete trading activity of millions of users trading tens of thousand of assets with an aggregated market valuation peaking at more than $500B and a daily trading volume exceeding $30B. Representing the largest publicly available financial data source at the granularity of individual trades and users, this dataset provides a rare opportunity to analyze and model a dynamic large scale decentralized financial ecosystem with smart contract interactions.</p>
 		<div class="12u$">
 			<ul class="actions">
 				<li><input type="submit" value="Download Data" class="special" /></li>
