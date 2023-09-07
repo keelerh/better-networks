@@ -2,7 +2,7 @@ title: DAF-MIT
 subtitle: AI Accelerator
 email: contact@betternetworks.mit.edu
 description: In today's digital age, the implications of adversarial actions on networks are intensifying. Leveraging recent advancements in high-performance, privacy-preserving network sensing and analysis, we can trace connections from granular network traffic to financial transactions and social interactions, crafting a holistic understanding of cyber activities.
-baseurl: "/better-networks"
+baseurl: ""
 url: "https://betternetworks.mit.edu"
 
 # homepage tiles
